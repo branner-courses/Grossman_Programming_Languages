@@ -17,12 +17,12 @@
    * list
    * `#`: indexing operator. `#1 e`: expression 1 of pair `e`
    * `*`: operator dividing types in type-checking expression
- 
+   * function syntax:
 
-```
+        ```
 fun <name> (<arguments>) =
     return value
-```
+        ```
 
 
  1. Early material
