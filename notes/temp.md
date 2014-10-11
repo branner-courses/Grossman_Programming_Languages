@@ -1,17 +1,14 @@
-three questions: syntax, evaluation, type-checking
-value: something that is done evaluating
+ 1. Let (defining local variables; Lecture 2-11)
 
- * `div`: division operator
- * `mod`: modulus operator
+   * `let <bindings> in <expression> end`
+   * `e`:
+     * provides type of whole expression
+     * "body" of expression
+     * bindings are recognized only within `e`
+   * scope: binding within an environment
 
- * `pr`: pair: 2-tuple
- * field: 
- * list
- * `#`: indexing operator. `#1 e`: expression 1 of pair `e`
- * `*`: operator dividing types in type-checking expression
- 
 
-```
-fun <name> (<arguments>) =
-    return value
-```
+
+
+
+
