@@ -9,6 +9,10 @@
      * bindings are recognized only within `e`
    * scope: binding within an environment
 
+ 1. List functions (Lecture 2-10)
+
+   * in dealing with list, consider 1) empty list (using `null <list name>` and 
+
  1. Lists (Lecture 2-9)
 
    * all elements have the same type
@@ -27,6 +31,7 @@
    * 'tl e`: 
      * returns all non-first elements of 'e' — `[]` is the last element
      * `tl` has type `'a list`
+2) non-empty list
 
  1. Pairs (2-tuples; Lecture 2-8)
 

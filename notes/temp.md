@@ -1,6 +1,6 @@
- 1. Let (defining local variables; Lecture 2-11)
+ 1. List functions (Lecture 2-10)
 
-   * `let <bindings> in <expression> end`
+   * in dealing with list, consider 1) empty list (using `null <list name>` and 2) non-empty list
    * `e`:
      * provides type of whole expression
      * "body" of expression
